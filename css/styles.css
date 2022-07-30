@@ -152,6 +152,21 @@ a:hover, a:focus, a:active {
   background-color: #464646;
   margin-bottom: 1rem;
 }
+.mcb{
+  background-image: url(../img/Maison_de_la_culture_Bourges_2021_large.jpg);
+}
+.voet{
+  background-image: url(../img/VV_IntoTheOpen_AB©DannyWillems_0DS9987-1920x636.jpg);
+}
+.coop{
+  background-image: url(../img/CRP-Balkans-for-web1.jpeg);
+}
+.cbai {
+  background-image: url(../img/cbai-banner.jpg);
+}
+.cult{
+  background-image: url(../img/cult-banner.jpg);
+}
 .odc {
   
   background-image: url(../img/odcBanner.png);
@@ -190,6 +205,9 @@ button:focus{
 .tools, .github-work{
   margin-top: 3rem;
   margin-bottom: 1.5rem;
+}
+.external-link{
+  filter: invert(1);
 }
 .img-tool{
   max-width : 100%;
